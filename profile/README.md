@@ -9,3 +9,6 @@ ossum n (genitive ossi); second declension
 
 At Ossum Inc., we use the latin word "ossum" via the second definition: kernel. 
 We believe we will be at the kernel of software development in due course.
+
+# ChangeLog
+* 9/19/24 - https://www.ossuminc.com/ website is refreshed with more information
